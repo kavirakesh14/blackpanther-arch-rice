@@ -19,9 +19,9 @@ Visit [r/unixporn](https://www.reddit.com/r/unixporn/) to see what others have c
 
 Before we get to the ricing, we need to install a few things first.
 
-#### Install Dmenu, Vim and Ranger
+#### Install basic apps
 
-`sudo pacman -S dmenu vim ranger`
+`sudo pacman -S dmenu vim rofi ranger feh`
 
 To use Dmenu, press `mod+d`. Only packages that have a GUI will appear if selected through Dmenu, otherwise it'll seem as if it's not working. This is normal.
 
