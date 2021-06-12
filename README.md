@@ -78,7 +78,7 @@ Read through the whole config file and understand what's happening. Change anyth
 
 ### Neofetch System Info and Replace ASCII Logo With Image
 
-`neofetch --w3m --source ~/Pictures/Wal/bg1.jpg`
+`neofetch --w3m --source ~/Pictures/wal/icon2.jpg`
 
 To customise what is displayed when you run `neofetch` or the above command, comment in/out lines in `~/.config/neofetch/config`
 
