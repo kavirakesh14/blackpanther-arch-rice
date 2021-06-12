@@ -2,7 +2,6 @@
 A guide to replicating my riced Arch Linux set-up. 
 ## What You'll Be Creating Today
 
-### Lockscreen:
 ![The Setup](https://github.com/kavirakesh14/blackpanther-arch-rice/blob/master-branch/screenshots/lockscreen.png)
 
 ![The Setup](https://github.com/kavirakesh14/blackpanther-arch-rice/blob/master-branch/screenshots/home.png)
